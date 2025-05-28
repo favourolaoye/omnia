@@ -1,6 +1,6 @@
-# 🌿 SoulPath — Your Spiritual Growth Companion
+# 🌿 Omnia — Your Spiritual Growth Companion
 
-**SoulPath** is a serene and uplifting web application designed to support users in their spiritual journeys through personalized guidance, mindful prompts, and daily affirmations. Whether you’re seeking clarity, connection, or inner peace, SoulPath offers a gentle daily practice to nourish the soul.
+**Omnia** is a serene and uplifting web application designed to support users in their spiritual journeys through personalized guidance, mindful prompts, and daily affirmations. Whether you’re seeking clarity, connection, or inner peace, SoulPath offers a gentle daily practice to nourish the soul.
 
 ---
 
@@ -12,8 +12,8 @@
 - 🔮 **Spiritual Guidance**  
   Get personalized insights and reflective prompts that encourage spiritual growth and self-awareness.
 
-- 📓 **Mindful Journaling**  
-  Optional space to write thoughts, feelings, or intentions in response to prompts.
+- 📓 **Good Community**  
+  Connect with a nurturing community and listen to inspiring messages from great evangelists, pastors, and spiritual leaders.
 
 - 🌙 **Minimalist Interface**  
   A calm and distraction-free environment for reflection and inner work.
@@ -22,9 +22,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js](https://nextjs.org)  
-- **Font Optimization:** [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) with [Geist](https://vercel.com/font)  
-- **Styling:** Tailwind CSS or CSS Modules (customizable)  
+- **Framework:** [Next.js](https://nextjs.org)   
+- **Styling:** Tailwind CSS 
 - **Hosting:** [Vercel](https://vercel.com)  
 
 ---
