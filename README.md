@@ -1,6 +1,6 @@
 # 🌿 Omnia — Your Spiritual Growth Companion
 
-**Omnia** is a serene and uplifting web application designed to support users in their spiritual journeys through personalized guidance, mindful prompts, and daily affirmations. Whether you’re seeking clarity, connection, or inner peace, SoulPath offers a gentle daily practice to nourish the soul.
+**Omnia** is a serene and uplifting web application designed to support users in their spiritual journeys through personalized guidance, mindful prompts, and daily affirmations. Whether you’re seeking clarity, connection, or inner peace, Omnia offers a gentle daily practice to nourish the soul.
 
 ---
 
