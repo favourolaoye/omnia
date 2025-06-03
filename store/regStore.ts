@@ -10,7 +10,7 @@ interface RegisterState {
 }
 
 export const useRegisterStore = create<RegisterState>((set) => ({
-  step: 'email',
+  step: 'success',
   email: '',
   setEmail: (email) => set({ email }),
   setStep: (step) => set({ step }),
